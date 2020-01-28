@@ -11,3 +11,6 @@ Students fork and clone it and various guided activities explore:
   * Cherry-picking and filepath checkouts
   * Amending commits
   * Merge conflict resolution
+
+
+[Link to my markdown document](some_rcode.md)
